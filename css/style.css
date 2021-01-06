@@ -430,7 +430,7 @@ input[type="text"]:focus, input[type="email"]:focus, input[type="password"]:focu
         padding: 0px 0px;
     }
     #nav.nav-transparent {
-        background: #f;
+        background: #f7931a;
     }
     .main-nav {
         position: fixed;
