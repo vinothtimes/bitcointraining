@@ -1,6 +1,5 @@
 /*
-Theme Name:
-Author: yaminncco
+
 
 Colors:
 	Body 		  : #868F9B
@@ -319,7 +318,7 @@ input[type="text"]:focus, input[type="email"]:focus, input[type="password"]:focu
 }
 
 #nav.nav-transparent {
-    background: #f7931a;
+    background: #ffc107;
 }
 
 
