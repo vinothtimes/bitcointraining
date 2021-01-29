@@ -313,8 +313,8 @@ input[type="text"]:focus, input[type="email"]:focus, input[type="password"]:focu
     left: 0;
     right: 0;
     padding: 0px 0px;
-    background-color: #f7931a !important;
-    border-bottom: 1px solid #f7931a;
+    background-color: #ffc107 !important;
+    border-bottom: 1px solid #ffc107;
 }
 
 #nav.nav-transparent {
